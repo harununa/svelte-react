@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 100%;
+}
+.btn {
+	height: 30px;
+}
+.header {
+	height: 50px;
+	width: 100%;
+}
+
+body{
+	padding:8px
+}
