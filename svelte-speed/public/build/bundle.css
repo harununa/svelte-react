@@ -1,0 +1,49 @@
+.app.svelte-1dzda14 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.btn.svelte-1dzda14 {
+  height: 30px;
+}
+
+.header.svelte-1dzda14 {
+  height: 50px;
+  width: 100%;
+}
+
+.wrap.svelte-1h7cjku {
+  border: 1px solid;
+  width: 20px;
+  height: 20px;
+}
+
+.red.svelte-1h7cjku {
+  background-color: red;
+}
+
+.orange.svelte-1h7cjku {
+  background-color: orange;
+}
+
+.yellow.svelte-1h7cjku {
+  background-color: yellow;
+}
+
+.green.svelte-1h7cjku {
+  background-color: green;
+}
+
+.blue.svelte-1h7cjku {
+  background-color: blue;
+}
+
+.navy.svelte-1h7cjku {
+  background-color: navy;
+}
+
+.purple.svelte-1h7cjku {
+  background-color: purple;
+}
